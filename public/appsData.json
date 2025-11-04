@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/KjX0kVpc/demo-app-1.webp",
+    "title": "Chatly",
+    "companyName": "TalkCorp",
+    "description": "A simple chat app to stay connected with friends.",
+    "size": 24,
+    "reviews": 1245,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 70
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 525
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/ym9b08rp/demo-app-2.webp",
+    "title": "FitGo",
+    "companyName": "Healthly",
+    "description": "Fitness tracking and guided workouts.",
+    "size": 30,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 90000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 450
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/fYwncFSM/demo-app-3.webp",
+    "title": "PhotoZen",
+    "companyName": "PixLab",
+    "description": "Photo editing with AI filters.",
+    "size": 45,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 450
+      },
+      {
+        "name": "5 star",
+        "count": 1490
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/ch5gnhJj/demo-app-4.webp",
+    "title": "SongWave",
+    "companyName": "TuneHub",
+    "description": "Stream music, create playlists, share with friends.",
+    "size": 60,
+    "reviews": 540,
+    "ratingAvg": 4.1,
+    "downloads": 60000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 60
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 120
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/pjQZXNRN/demo-app-5.webp",
+    "title": "MarketPro",
+    "companyName": "BizSoft",
+    "description": "Buy and sell items locally with ease.",
+    "size": 28,
+    "reviews": 320,
+    "ratingAvg": 3.9,
+    "downloads": 45000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 80
+      },
+      {
+        "name": "5 star",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/HLgPRCGm/demo-app-6.webp",
+    "title": "LearnHub",
+    "companyName": "EduSoft",
+    "description": "Courses and learning paths for modern developers.",
+    "size": 50,
+    "reviews": 760,
+    "ratingAvg": 4.6,
+    "downloads": 110000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 410
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/NgW881Gj/Travelly.png",
+    "title": "Travelly",
+    "companyName": "Wander",
+    "description": "Plan trips, book stays, find local guides.",
+    "size": 67,
+    "reviews": 410,
+    "ratingAvg": 4.3,
+    "downloads": 75000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 60
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 165
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/Xrj0h1wQ/Note.png",
+    "title": "NoteSync",
+    "companyName": "Paperless",
+    "description": "Sync notes across devices with encryption.",
+    "size": 12,
+    "reviews": 220,
+    "ratingAvg": 4.0,
+    "downloads": 35000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 50
+      },
+      {
+        "name": "4 star",
+        "count": 80
+      },
+      {
+        "name": "5 star",
+        "count": 60
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/4wr8cqbf/SafeBank.png",
+    "title": "SafeBank",
+    "companyName": "FinServe",
+    "description": "Secure mobile banking with biometric login.",
+    "size": 40,
+    "reviews": 1500,
+    "ratingAvg": 4.8,
+    "downloads": 300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 10
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 1200
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/0yz62hG2/CookMate.png",
+    "title": "CookMate",
+    "companyName": "Foodies",
+    "description": "Recipes, grocery lists, and meal planners.",
+    "size": 22,
+    "reviews": 430,
+    "ratingAvg": 4.4,
+    "downloads": 82000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 40
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 205
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/HTZ0M9Xc/PodCast.png",
+    "title": "Podcastly",
+    "companyName": "AudioWorks",
+    "description": "Discover, subscribe and listen to podcasts.",
+    "size": 34,
+    "reviews": 290,
+    "ratingAvg": 3.8,
+    "downloads": 42000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 70
+      },
+      {
+        "name": "5 star",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/21CskMMD/Budgeter.webp",
+    "title": "Budgeter",
+    "companyName": "MoneyMate",
+    "description": "Track expenses, budgets, and savings goals.",
+    "size": 16,
+    "reviews": 610,
+    "ratingAvg": 4.3,
+    "downloads": 98000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 70
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 310
+      }
+    ]
+  }
+]
