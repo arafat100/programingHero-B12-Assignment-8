@@ -11,26 +11,26 @@ const Home = () => {
   useEffect(() => {
     fetch("/appsData.json")
       .then((res) => res.json())
-      .then((data) => setApps(data.slice(0, 8))) 
+      .then((data) => setApps(data.slice(0, 8)))
       .catch((err) => console.error("Error loading apps:", err));
   }, []);
 
- 
+
   const handleAppClick = (id) => {
     navigate(`/apps/${id}`);
   };
 
- 
+
   const handleShowAll = () => {
     navigate("/apps");
   };
 
   return (
-   
-    <div className="min-h-screen bg-white animate-fadeIn">
 
-     
-      <section className="py-16 px-4 text-center bg-white">
+    <div className="min-h-screen bg-white ">
+
+
+      <section className="  px-4 text-center bg-white">
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           We Build{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-600 block">
@@ -74,8 +74,8 @@ const Home = () => {
         </div>
       </section>
 
-     
-      <section className="py-16 px-4 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
+
+      <section className="mx-0 pb-16 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
         <h2 className="text-3xl font-bold text-center mb-12">
           Trusted By Millions, Built For You
         </h2>
@@ -98,7 +98,7 @@ const Home = () => {
         </div>
       </section>
 
-     
+
       <section className="py-16 px-4">
         <div className="flex justify-between items-center mb-8">
           <h2 className="text-3xl font-bold text-gray-800">Trending Apps</h2>
