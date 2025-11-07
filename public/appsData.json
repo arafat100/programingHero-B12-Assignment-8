@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://i.ibb.co/abc123/app-1.webp",
+    "image": "https://i.postimg.cc/15RQVKn4/demo-app-1.webp",
     "title": "Chatly",
     "companyName": "TalkCorp",
     "description": "A simple chat app to stay connected with friends.",
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "image": "https://i.ibb.co/def456/app-2.webp",
+    "image": "https://i.postimg.cc/wjvgZkgn/demo-app-2.webp",
     "title": "Workify",
     "companyName": "TaskPro",
     "description": "Manage your tasks efficiently and stay productive.",
@@ -67,7 +67,7 @@
   },
   {
     "id": 3,
-    "image": "https://i.ibb.co/ghi789/app-3.webp",
+    "image": "https://i.postimg.cc/k48nwXqn/demo-app-3.webp",
     "title": "FitTrack",
     "companyName": "HealthLab",
     "description": "Track your fitness goals and monitor daily workouts.",
@@ -100,7 +100,7 @@
   },
   {
     "id": 4,
-    "image": "https://i.ibb.co/jkl012/app-4.webp",
+    "image": "https://i.postimg.cc/15SzC68C/demo-app-4.webp",
     "title": "TravelMate",
     "companyName": "GoGlobe",
     "description": "Plan and explore trips across the world with ease.",
@@ -133,7 +133,7 @@
   },
   {
     "id": 5,
-    "image": "https://i.ibb.co/mno345/app-5.webp",
+    "image": "https://i.postimg.cc/rwQztmwk/demo-app-5.webp",
     "title": "NotePlus",
     "companyName": "PaperMind",
     "description": "Create and organize notes seamlessly with cloud sync.",
@@ -166,7 +166,7 @@
   },
   {
     "id": 6,
-    "image": "https://i.ibb.co/pqr678/app-6.webp",
+    "image": "https://i.postimg.cc/cJkKPJpC/demo-app-6.webp",
     "title": "EduMate",
     "companyName": "LearnX",
     "description": "Interactive learning platform for students and teachers.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 7,
-    "image": "https://i.ibb.co/7brN4Wp/food-app.webp",
+    "image": "https://i.postimg.cc/MZNTyNwR/Food-Box.webp",
     "title": "FoodBox",
     "companyName": "FoodMart",
     "description": "Order food from best restaurants.",
@@ -232,7 +232,7 @@
   },
   {
     "id": 8,
-    "image": "https://i.ibb.co/stu901/app-8.webp",
+    "image": "https://i.postimg.cc/zGWRb5R5/Newsly.png",
     "title": "Newsly",
     "companyName": "DailyHub",
     "description": "Get breaking news, updates, and trending stories.",
@@ -265,7 +265,7 @@
   },
   {
     "id": 9,
-    "image": "https://i.ibb.co/vwx234/app-9.webp",
+    "image": "https://i.postimg.cc/76N3C4dq/Finance-Pro.webp",
     "title": "FinancePro",
     "companyName": "MoneyMind",
     "description": "Track expenses and manage your monthly budget easily.",
