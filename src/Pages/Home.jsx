@@ -30,14 +30,14 @@ const Home = () => {
     <div className="min-h-screen bg-white ">
 
 
-      <section className="  px-4 text-center bg-white">
+      <section className="  px-4 py-2 text-center bg-white">
         <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
           We Build{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-600 block">
             Productive Apps
           </span>
         </h1>
-        <p className="text-gray-600 max-w-3xl mx-auto text-lg mb-8">
+        <p className="text-gray-600 max-w-3xl mx-auto text-lg mb-10">
           At HEROJO, we craft innovative apps designed to make everyday life
           simpler, smarter, and more exciting. Our goal is to turn your ideas
           into digital experiences that truly make an impact.
@@ -75,7 +75,7 @@ const Home = () => {
       </section>
 
 
-      <section className="mx-0 pb-16 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
+      <section className=" pb-16 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
         <h2 className="text-3xl font-bold text-center mb-12">
           Trusted By Millions, Built For You
         </h2>
